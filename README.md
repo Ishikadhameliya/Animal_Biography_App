@@ -1,16 +1,5 @@
-# animal_biography_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2023-03-11-21-38-33-93_2fc6a64c22e6776eae59b95e8af9d3b5](https://user-images.githubusercontent.com/121867953/224495217-e90b86b7-55e5-49e5-9a27-b2bd620ff213.jpg)
+![Screenshot_2023-03-11-21-38-52-67_2fc6a64c22e6776eae59b95e8af9d3b5](https://user-images.githubusercontent.com/121867953/224495221-352f2a40-f6bd-4e3c-8720-5a02fdb87d43.jpg)
+![Screenshot_2023-03-11-21-38-58-75_2fc6a64c22e6776eae59b95e8af9d3b5](https://user-images.githubusercontent.com/121867953/224495230-057f6986-344d-46ee-b591-0fb335ec9acb.jpg)
+![Screenshot_2023-03-11-21-39-03-55_2fc6a64c22e6776eae59b95e8af9d3b5](https://user-images.githubusercontent.com/121867953/224495236-b1046d5a-84b4-4f04-8e33-331cb1d82807.jpg)
+![Screenshot_2023-03-11-21-39-08-17_2fc6a64c22e6776eae59b95e8af9d3b5](https://user-images.githubusercontent.com/121867953/224495240-2e61748a-e828-48c0-aead-80f6777f9360.jpg)
